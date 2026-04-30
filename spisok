@@ -1,5 +1,5 @@
 #profile-title: BESPLATNO VPN [#SW]
-#profile-update-interval: 6
+#profile-update-interval: 12
 #subscription-userinfo: expire=86877705600; total=10995116277760; used=0
 #profile-web-page-url: https://t.me/hiddifycode
 #announce: Бесплатные паки VPN (Может быть не стабильны), по поводу ошибки писать @sch2kw4r
@@ -44,13 +44,13 @@ vless://f0b0e142-0768-458b-b481-671ed2018741@tg.barryvpn.com:443?security=realit
 
 vless://4de9bd4f-8d80-4637-8bdb-9e987c8a79bc@146.103.114.12:59001?type=tcp&encryption=none&security=reality&pbk=alN88a4LJdVTW2JRU1jE-LYDAG2LhLEZoMSZRaCWWR4&fp=chrome&sni=www.m.vk.ru&sid=9629&spx=%2F#Обход БС и ЧБ 👇
 
-vless://5b1c5027-5bc6-4ee2-b287-001b05fba219@144.31.5.247:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&sid=27aa&sni=deepl.com#Польша #1 [ЧБ]
-vless://75807638-6f19-2710-ae08-38492ee85c88@cl-de-1.edgeflux.ru:52006?encryption=none&flow=xtls-rprx-vision&security=tls&sni=cl-de-1.edgeflux.ru&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none%2C#Польша #2 [ЧБ]
-vless://75807638-6f19-2710-ae08-38492ee85c88@cl-de-1.edgeflux.ru:52006?encryption=none&flow=xtls-rprx-vision&security=tls&sni=cl-de-1.edgeflux.ru&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none\",",#Польша #3 [ЧБ]
+vless://5b1c5027-5bc6-4ee2-b287-001b05fba219@144.31.5.247:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&sid=27aa&sni=deepl.com#🏴‍☠️ Польша #1 [ЧБ]
+vless://75807638-6f19-2710-ae08-38492ee85c88@cl-de-1.edgeflux.ru:52006?encryption=none&flow=xtls-rprx-vision&security=tls&sni=cl-de-1.edgeflux.ru&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none%2C#🏴‍☠️ Польша #2 [ЧБ]
+vless://75807638-6f19-2710-ae08-38492ee85c88@cl-de-1.edgeflux.ru:52006?encryption=none&flow=xtls-rprx-vision&security=tls&sni=cl-de-1.edgeflux.ru&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none\",",#🏴‍☠️ Польша #3 [ЧБ]
 vless://46e72c3a-d25c-4bb7-86ea-e35fbffd9d95@84.201.139.224:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=ads.x5.ru&fp=qq&pbk=gNtMcbWBz1AeV6giQ5gPUrKLJPDFJsilotaoYPxr-Bg&sid=83185a2743#🇷🇺 БС #1 [Обход LTE/WiFi]
 vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.41:52006?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&allowInsecure=1#🇷🇺 БС #2
 vless://75807638-6f19-07d0-ae08-38492ee85c88@212.41.8.216:52006?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&allowInsecure=1#🇷🇺 БС #3
-vless://60ae82da-f839-4125-aa1e-3df0e2a5c30c@5.188.224.69:2083?type=tcp&security=reality&encryption=none&fp=chrome&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38&sni=ir.ozone.ru#БС #4
-vless://5074df4a-1b57-4417-9f9c-d055b420a6f3@158.160.46.104:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=web.max.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32🇷🇺 БС #5
+vless://60ae82da-f839-4125-aa1e-3df0e2a5c30c@5.188.224.69:2083?type=tcp&security=reality&encryption=none&fp=chrome&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38&sni=ir.ozone.ru#🇷🇺 БС #4
+vless://5074df4a-1b57-4417-9f9c-d055b420a6f3@158.160.46.104:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=web.max.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#🇷🇺 БС #5
 vless://8ef19221-6d5e-4bce-baa1-7c043eae3309@62.60.217.95:443?security=reality&encryption=none&flow=xtls-rprx-vision&type=tcp&sni=stats.vk-portal.net&fp=chrome&pbk=6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do&sid=3c6fc84d&alpn=http/1.1&headerType=none#БС [Резерв/Запасной]
 
