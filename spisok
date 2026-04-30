@@ -13,7 +13,7 @@ vless://b875b7b4-f825-41da-9fa1-fd3dd7aad15a@fin.mircloud-storage.top:443?flow=x
 
 vless://b875b7b4-f825-41da-9fa1-fd3dd7aad15a@destorage.mircloud-storage.top:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=store.steampowered.com&pbk=zRg_tvbwuou8GOz2eMoJW4fMiWPQmdQ8uDy046rkFCg&sid=bc&spx=/#🇮🇷 Иран
 
-vless://32bfe5f3-a406-48e3-bad9-932945bd0bc1@91.239.23.180.vhub.pro:443?type=grpc&mode=gun&serviceName=/sequre/grpc/&security=tls&sni=91.239.23.180.vhub.pro&fp=chrome&allowInsecure=0#🇬🇧 Остров Эпштейна [Лондон #1]
+vless://32bfe5f3-a406-48e3-bad9-932945bd0bc1@91.239.23.180.vhub.pro:443?type=grpc&mode=gun&serviceName=/sequre/grpc/&security=tls&sni=91.239.23.180.vhub.pro&fp=chrome&allowInsecure=0#🇬🇧 Великобритания [Лондон #1]
 vless://75807638-6f19-2710-ae08-38492ee85c88@cl-de-1.edgeflux.ru:52006?flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=cl-de-1.edgeflux.ru&fp=chrome&allowInsecure=1#🇬🇧 Великобритания [Лондон #2]
 
 vless://b875b7b4-f825-41da-9fa1-fd3dd7aad15a@se.toscloud.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=www.finnair.com&pbk=MtO6lJB5BcJtYW9-ReGZ3N4gOXhai83hqxto9Jlr7kI&sid=708e4b3ebb4c&spx=/#🇺🇸 США [Нью-Йорк]
