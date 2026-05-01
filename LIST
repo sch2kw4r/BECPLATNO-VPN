@@ -11,7 +11,7 @@ vless://f0b0e142-0768-458b-b481-671ed2018741@auto-5.barryvpn.com:8443?security=r
 vless://TMG_b6fc7a0ef8b@213.176.16.30:443?echfq=none&fp=firefox&type=xhttp&sni=www.amazon.com&sid=d245059a&mode=auto&path=%2FsBr-U9lJb0r&security=reality&encryption=none&pbk=IEOMhe3UeW0v2VDgDmMJcQffNk54vVuRiksMQsjL4U4&host=amazon.com&spx=%2F&allowinsecure=0#🇳🇱 Нидерланды
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@152.89.244.33:443?security=tls&flow=xtls-rprx-vision-udp443&sni=finl9.keepsecured.net&fp=chrome&alpn=http/1.1%2Ch2#🇩🇪 Германия
 vless://75807638-6f19-2710-ae08-38492ee85c88@cl-de-1.edgeflux.ru:52006?flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=cl-de-1.edgeflux.ru&fp=chrome&allowInsecure=1#🇬🇧 Великобритания
-
+vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.216.21.135:10026#🇯🇵 Япония [Медленный]
 vless://0b3e7958-e5c4-498f-ab21-b49686f95d2d@188.114.97.1:2053?type=ws&security=tls&sni=bold-term-4edd.mbigspot.workers.dev&path=/&host=bold-term-4edd.mbigspot.workers.dev&fp=chrome#🇨🇦 Канада
 vless://cead26ce-f4e0-4820-aa2c-96cf3e61fb4c@lol-swe-0001.api.neuralrelay.stream:443?type=tcp&security=reality&pbk=9WnuH4KUb9-cCqbApq4bVLDhrqhPbpnd5eTn14bGciA&fp=chrome&sni=hls-svod.itunes.apple.com&sid=b7031d292d5d&flow=xtls-rprx-vision#🇸🇪 Швеция
 
