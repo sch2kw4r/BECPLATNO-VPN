@@ -22,6 +22,7 @@ vless://07e5a1f8-8317-fd7b-b7fb-975a0de32205@217.16.27.96:2096?security=reality&
 vless://aa4480d4-0c2c-4092-8224-11265d9549c1@91.238.123.66:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sni=google.com&fp=firefox&sid=db04ce8bdb8900f1&flow=xtls-rprx-vision&type=tcp#🇩🇪 Германия #4
 vless://aa4480d4-0c2c-4092-8224-11265d9549c1@94.26.90.46:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sni=google.com&fp=firefox&sid=db04ce8bdb8900f1&flow=xtls-rprx-vision&type=tcp#🇩🇪 Германия #5
 vless://75807638-6f19-2710-ae08-38492ee85c88@cl-de-1.edgeflux.ru:52006?flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=cl-de-1.edgeflux.ru&fp=chrome&allowInsecure=1#🇬🇧 Великобритания
+ss://YWVzLTI1Ni1nY206NjNkN2MxNzUwNmQxZjQ4Yg@203.32.26.24:40120#🇰🇷 Южная Корея 
 vless://af2e1391-e1df-4939-906f-93ee993c940e@archive.westondigita.cloud:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=2356d1ae4b&sni=aliusfilms.ru#🇨🇳 Китай #1
 vless://af2e1391-e1df-4939-906f-93ee993c940e@hub.westondigita.cloud:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1&sni=westondigita.cloud#🇨🇳 Китай #2
 vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.216.21.135:10026#🇯🇵 Япония [Медленный]
