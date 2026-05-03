@@ -56,7 +56,7 @@ vless://75807638-6f19-07d0-ae08-38492ee85c88@212.41.8.216:52006?type=tcp&securit
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1c09qQVFYbXlScWNZOGFSQUZGZ2hueVJS@83.166.250.6:51287#🇷🇺 БС #4
 vless://7514f578-1df9-4cb0-ac2a-3a2741e07ad3@87.242.118.99:443?encryption=none&type=xhttp&security=reality&path=%2F&mode=auto&extra=null&fp=firefox&sni=sun6-21.userapi.com&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&sid=abcdef0123456789#🇷🇺 БС #5
 vless://231e88bb-3a39-4f26-848e-908f83070283@141.11.197.127:55269?encryption=none&type=tcp&security=reality&fp=chrome&sni=vk.ru&pbk=i1e3hqslC-n7XGp72HmDKU7ZuRk72pHbzujbNaYF-0s&sid=8f&spx=%2F#🇺🇲 БС #6 [США]
-vless://8ef19221-6d5e-4bce-baa1-7c043eae3309@157.22.178.211:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=stats.vk-portal.net&pbk=6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do&sid=3c6fc84d#🇳🇱 БС #7 [Нидерланды]
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RW96aDRwc2RwcXl5MWs5VTV0eWtNRkY1@83.166.250.6:50529#🇷🇺 БС #8 [Россия, запасной]
 trojan://cc8da52f7c2b4a2a9bb886ec595fe285@62.113.114.116:9443?type=tcp&security=reality&pbk=4-0w7mbZdx1ahuIMOV_VMXlkWdc2daX4oOSlb9P992A&sid=aabbccdd&sni=ya.ru&fp=random#🇷🇺 БС #9 [Россия, запасной]
 ss://YWVzLTI1Ni1nY206OWYzZDFhNmQzMTQ2ODU5OQ@195.58.49.9:40901#🇷🇺 БС #10 [Россия, запасной]
